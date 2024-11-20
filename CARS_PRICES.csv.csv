@@ -1,0 +1,36 @@
+Make,Model,MSRP,Class,Vehicle Type,Seats,Towing Capacity (Y/N),Type,Country Origin,Full Charge Mileage - Min,Full Charge Mileage - Max,Full Gas Mileage - Min,Full Gas Mileage - Max,All-Wheel Drive (Y/N),Charging Speed (kW),Tax Incentives (Y/N)
+Audi,Q8 e-tron,"$74,800 ",Luxury,SUV,5,Yes,Electric,Germany,250,300,Not applicable,Not applicable,Yes,170 kW,Yes
+BMW,330e,"$43,800 ",Luxury,Sedan,5,No,Plug-In Hybrid,Germany,23,23,25 mpg,29 mpg,No,3.6 kW,Yes
+BMW,i4,"$55,400 ",Luxury,Sedan,5,No,Electric,Germany,245,300,Not applicable,Not applicable,No,200 kW,Yes
+Chevrolet,Bolt EUV,"$27,800 ",Economic,Crossover,5,No,Electric,USA,247,259,Not applicable,Not applicable,No,55 kW,Yes
+Chrysler,Pacifica Hybrid,"$53,425 - $62,000",Economic,Van,7,No,Plug-In Hybrid,USA,32,32,30 mpg,30 mpg,No,Not applicable,Yes
+Ford,E-Transit,"$51,880 ",Economic,Van,2,No,Electric,USA,115,130,Not applicable,Not applicable,Yes,125 kW,Yes
+Ford,Escape PHEV,"$38,500 ",Economic,SUV,5,Yes,Plug-In Hybrid,USA,37,37,37 mpg,38 mpg,No,7.4 kW,Yes
+Ford,Mustang Mach-E,"$43,895 ",Economic,SUV,5,Yes,Electric,USA,211,300,Not applicable,Not applicable,Yes,150 kW,Yes
+GMC,Hummer EV,"$108,700 ",Luxury,Truck,5,Yes,Electric,USA,329,350,Not applicable,Not applicable,Yes,350 kW,Yes
+Hyundai,Kona Electric,"$33,550 ",Economic,SUV,5,No,Electric,South Korea,258,258,Not applicable,Not applicable,Yes,100 kW,Yes
+Hyundai,Sonata PHEV,"$35,000 ",Economic,Sedan,5,No,Plug-In Hybrid,South Korea,28,32,38 mpg,42 mpg,No,7.2 kW,Yes
+Hyundai,Tucson PHEV,"$37,500 ",Economic,SUV,5,No,Plug-In Hybrid,South Korea,32,33,35 mpg,38 mpg,No,7.2 kW,Yes
+Jaguar,I-PACE,"$71,300 ",Luxury,SUV,5,No,Electric,UK,234,246,Not applicable,Not applicable,Yes,104 kW,Yes
+Jeep,Grand Cherokee 4xe,"$60,360 ",Luxury,SUV,5,Yes,Plug-In Hybrid,USA,22,26,23 mpg,25 mpg,Yes,7.4 kW,Yes
+Kia,Optima PHEV,"$37,000 ",Economic,Sedan,5,No,Plug-In Hybrid,South Korea,29,31,39 mpg,41 mpg,No,7.2 kW,Yes
+Kia,EV9,"$65,395 ",Luxury,SUV,7,Yes,Plug-In Hybrid,South Korea,230,304,Not applicable,Not applicable,Yes,180 kW,Yes
+Lexus,RX 450h+ Plug-In Hybrid,"$70,080 ",Luxury,SUV,5,No,Plug-In Hybrid,Japan,37,37,Not applicable,Not applicable,Yes,240 kW,Yes
+Lucid,Air,"$87,400 ",Luxury,Sedan,5,No,Electric,USA,410,516,Not applicable,Not applicable,Yes,300 kW,Yes
+Mazda,MX-30,"$34,500 ",Economic,SUV,5,No,Electric,Japan,100,100,Not applicable,Not applicable,No,50 kW,Yes
+Mercedes-Benz,eSprinter,"$54,000 ",Luxury,Van,2,No,Electric,Germany,96,125,Not applicable,Not applicable,No,150 kW,Yes
+Mercedes-Benz,EQE Sedan,"$76,050 ",Luxury,Sedan,5,No,Electric,Germany,305,350,Not applicable,Not applicable,Yes,170 kW,Yes
+Mini,Cooper SE Convertible,"$40,000 ",Luxury,Convertible,4,No,Electric,UK,114,150,Not applicable,Not applicable,Yes,50 kW,Yes
+Mitsubishi,Outlander PHEV,"$39,995 ",Economic,SUV,7,Yes,Plug-In Hybrid,Japan,24,24,26 mpg,28 mpg,Yes,3.5 kW,Yes
+Nissan,Ariya,"$52,555 ",Economic,SUV,5,No,Electric,Japan,250,289,Not applicable,Not applicable,Yes,130 kW,Yes
+Porsche,Taycan,"$86,700 ",Luxury,Sedan,5,No,Electric,Germany,225,283,Not applicable,Not applicable,Yes,270 kW,Yes
+Rivian,R1T,"$73,000 ",Luxury,Truck,5,Yes,Electric,USA,314,400,Not applicable,Not applicable,Yes,250 kW,Yes
+Subaru,Crosstrek Hybrid,"$36,000 ",Economic,SUV,5,Yes,Plug-In Hybrid,Japan,17,17,34 mpg,35 mpg,No,6.6 kW,Yes
+Tesla,Model 3,"$42,990 ",Luxury,Sedan,5,No,Electric,USA,267,358,Not applicable,Not applicable,No,250 kW,Yes
+Tesla,Model S,"$94,990 ",Luxury,Sedan,5,No,Electric,USA,375,396,Not applicable,Not applicable,Yes,250 kW,Yes
+Tesla,Model X,"$120,990 ",Luxury,SUV,7,Yes,Electric,USA,348,348,Not applicable,Not applicable,Yes,250 kW,Yes
+Toyota,Highlander Hybrid,"$50,500 ",Economic,SUV,7,Yes,Plug-In Hybrid,Japan,35,35,35 mpg,37 mpg,No,6.6 kW,Yes
+Toyota,Prius Prime,"$32,350 ",Economic,Sedan,5,No,Plug-In Hybrid,Japan,25,25,54 mpg,55 mpg,No,3.3 kW,Yes
+Volvo,S60 Recharge,"$48,695 ",Luxury,Sedan,5,No,Plug-In Hybrid,Sweden,22,22,25 mpg,29 mpg,No,11 kW,Yes
+Volvo,XC60 Recharge,"$56,100 ",Luxury,SUV,5,Yes,Plug-In Hybrid,Sweden,21,22,35 mpg,38 mpg,Yes,11 kW,Yes
+Volvo,XC90 Recharge,"$63,800 ",Luxury,SUV,7,Yes,Plug-In Hybrid,Sweden,18,18,27 mpg,30 mpg,Yes,11 kW,Yes
